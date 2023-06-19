@@ -1,0 +1,10 @@
+D:\Certify-main\Certify-main\Certify\bin\Debug\Certify.exe.config
+D:\Certify-main\Certify-main\Certify\bin\Debug\Certify.exe
+D:\Certify-main\Certify-main\Certify\bin\Debug\Certify.pdb
+D:\Certify-main\Certify-main\Certify\bin\Debug\Interop.CERTENROLLLib.dll
+D:\Certify-main\Certify-main\Certify\obj\Debug\Certify.csproj.AssemblyReference.cache
+D:\Certify-main\Certify-main\Certify\obj\Debug\Certify.csproj.SuggestedBindingRedirects.cache
+D:\Certify-main\Certify-main\Certify\obj\Debug\Certify.csproj.CoreCompileInputs.cache
+D:\Certify-main\Certify-main\Certify\obj\Debug\Certify.csproj.CopyComplete
+D:\Certify-main\Certify-main\Certify\obj\Debug\Certify.exe
+D:\Certify-main\Certify-main\Certify\obj\Debug\Certify.pdb
